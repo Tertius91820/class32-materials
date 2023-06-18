@@ -1,1 +1,11 @@
-const squareDigits = num => num.map(num.toString()).
+let array= '';
+
+function findShort(s){
+  array = s.split(' ')
+  console.log(array);
+  
+}
+
+
+
+findShort("Let's travel abroad shall we")
